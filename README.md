@@ -1,1 +1,1 @@
-# gistudy
+# G.I.Study
