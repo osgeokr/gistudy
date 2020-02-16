@@ -1,0 +1,8 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles zmin="0" password="" name="VworldBase" url="http://api.vworld.kr/req/wmts/1.0.0/D05C77C9-AB62-3E70-9183-0E044A461BBD/Base/{z}/{y}/{x}.png" authcfg="" referer="" zmax="18" username=""/>
+    <xyztiles zmin="0" password="" name="VworldGray" url="http://api.vworld.kr/req/wmts/1.0.0/D05C77C9-AB62-3E70-9183-0E044A461BBD/gray/{z}/{y}/{x}.png" authcfg="" referer="" zmax="18" username=""/>
+    <xyztiles zmin="0" password="" name="VworldHybrid" url="http://api.vworld.kr/req/wmts/1.0.0/D05C77C9-AB62-3E70-9183-0E044A461BBD/Hybrid/{z}/{y}/{x}.png" authcfg="" referer="" zmax="18" username=""/>
+    <xyztiles zmin="0" password="" name="VworldMidnight" url="http://api.vworld.kr/req/wmts/1.0.0/D05C77C9-AB62-3E70-9183-0E044A461BBD/midnight/{z}/{y}/{x}.png" authcfg="" referer="" zmax="18" username=""/>
+    <xyztiles zmin="0" password="" name="VworldSatellite" url="http://api.vworld.kr/req/wmts/1.0.0/D05C77C9-AB62-3E70-9183-0E044A461BBD/Satellite/{z}/{y}/{x}.jpeg" authcfg="" referer="" zmax="18" username=""/>
+</qgsXYZTilesConnections>
